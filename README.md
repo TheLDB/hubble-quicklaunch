@@ -45,5 +45,6 @@ A file to store the credentials for your hub in, if using with --auth
 - [Sleep Deprivation](https://en.wikipedia.org/wiki/Sleep_deprivation)
 
 ## Things I want to add:
-[] Compatability w/ secret vaults like HashiCorp Vault, AWS Secrets Manager, and more
-[] Support for other OS' and providers. This is currently only tested on Ubuntu 22.04 on an AWS m5.large instance.
+- [ ] Compatability w/ secret vaults like HashiCorp Vault, AWS Secrets Manager, and more
+
+- [ ] Support for other OS' and providers. This is currently only tested on Ubuntu 22.04 on an AWS m5.large instance.
