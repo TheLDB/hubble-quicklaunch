@@ -4,6 +4,13 @@ Easily spin up a hubble instance in mere seconds with a quick script.
 Based off the [launch docs](https://warpcast.notion.site/Set-up-Hubble-on-EC2-Public-23b4e81d8f604ca9bf8b68f4bb086042)
 ## Installation/Usage
 
+### curl the launcher file
+```bash
+curl https://raw.githubusercontent.com/TheLDB/hubble-quicklaunch/main/hubble-launcher.sh -O
+```
+
+# Alternatively:
+(use this if the curl operation didn't work, or if you're making a change and want to PR it)
 ### Clone the repo
 ```bash
 git clone https://github.com/TheLDB/hubble-quicklaunch
